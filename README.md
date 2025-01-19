@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @byscu404
+- 👋 Hi, I’m @AbhisekBasak
 - 👀 I’m interested in ...learning new things.
 - 🌱 I’m currently learning ...python, sql.
 - 💞️ I’m looking to collaborate on...projects.
