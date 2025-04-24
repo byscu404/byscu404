@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning new things.
 - 🌱 I’m currently learning ...python, sql.
 - 💞️ I’m looking to collaborate on...projects.
-- 📫 How to reach me ...say bolo tara ra ra...
+- 📫 How to reach me ...rbbasak1234@gmail.com
 
 <!---
 byscu404/byscu404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
